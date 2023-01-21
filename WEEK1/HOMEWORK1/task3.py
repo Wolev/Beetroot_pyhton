@@ -3,24 +3,14 @@
 
 # Note: Use \t and \n instead of """ """.
 
+a = '#########'
+b = '#\t#'
+
 # 1.Create the o symbol using multiline string
 
-character_o = ( '#########\n' 
-								'#       #\n'
-	 							'#       #\n'
-								'#       #\n'
-								'#########')
+print(a, b, b, b, a, sep='\n', end='\n\n\n')
 
 # 2, Create the h symbol using multiline string
 
-character_h = ( '#       #\n'
-								'#       #\n'
-								'#########\n'
-								'#       #\n'
-								'#       #')
+print(b, b, a, b, b, sep='\n')
 
-# No need to use \t, why should I use \t?
-
-print(character_o)
-print("\n")
-print(character_h)
