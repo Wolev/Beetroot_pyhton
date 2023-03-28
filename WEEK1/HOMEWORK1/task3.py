@@ -1,5 +1,6 @@
 # Task 3: Write a print statement with
 # capital leters "O" and "H" in "#" character
+# Fixed it on Pycharm setting, terminal output may vary.
 
 # Note: Use \t and \n instead of """ """.
 
