@@ -4,10 +4,11 @@
 print('hello world')
 
 # Print the 'sep' parameter
-print('sep')
+print("Print", "the", "sep", "parameter.", sep=" ")
 
 # Print the 'end' parameter
-print('end')
+print('This is going', end=' ')
+print('great.')
 
 # Print more than one parameter
 print('I\'m', 'making', 'progress.')
