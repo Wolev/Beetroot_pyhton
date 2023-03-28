@@ -4,7 +4,7 @@
 # Note: Use \t and \n instead of """ """.
 
 a = '#########'
-b = '#\t#'
+b = '#\t\t#'
 
 # 1.Create the o symbol using multiline string
 
